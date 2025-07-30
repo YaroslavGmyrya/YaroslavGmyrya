@@ -23,13 +23,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/YaroslavGmyrya/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YaroslavGmyrya&theme=dark&show_icons=true&rank_icon=github" height="180"/>
+<div align="center" style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/YaroslavGmyrya/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=YaroslavGmyrya&theme=dark&show_icons=true&rank_icon=github" width="400" height="200" alt="GitHub Stats"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=dark" height="180"/>
+  <a href="https://github.com/YaroslavGmyrya/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=dark" width="400" height="200" alt="Top Languages"/>
+  </a>
 </div>
-
 ---
 
 ## 🏆 My Achievements
