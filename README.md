@@ -2,8 +2,6 @@
 
 <h3 align="center">🎓 Student of the Siberian State University of Informatics and Telecommunications</h3>
 
----
-
 ## 🧰 Languages and Tools
 
 <p align="center">
@@ -19,19 +17,15 @@
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
 </p>
 
----
+## 📊 Top Langs
 
-## 📊 GitHub Stats
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 30px;">
 
-<div align="center" style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/YaroslavGmyrya/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=YaroslavGmyrya&theme=dark&show_icons=true&rank_icon=github" width="400" height="200" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/YaroslavGmyrya/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=dark" width="400" height="200" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=dark" alt="Top Langs" width="400" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavGmyrya&theme=dark&show_icons=true&rank_icon=github" alt="GitHub Stats" width="400" />
+
 </div>
----
 
 ## 🏆 My Achievements
 
@@ -40,5 +34,3 @@
 - ✅ Huawei "HCIA-Datacom"  
 - ✅ CCNA Packet Tracer Labs (Unofficial)  
 - ✅ Python  
-
----
