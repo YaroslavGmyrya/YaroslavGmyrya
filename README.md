@@ -19,12 +19,8 @@
 
 ## 📊 Top Langs
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 30px;">
-
+<div align="center"">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=dark" alt="Top Langs" width="400" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavGmyrya&theme=dark&show_icons=true&rank_icon=github" alt="GitHub Stats" width="400" />
-
 </div>
 
 ## 🏆 My Achievements
