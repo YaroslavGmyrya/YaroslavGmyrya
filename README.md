@@ -27,12 +27,17 @@
 
 
 ## 🏅 Achievements & Certifications
+- 📡 Yadro Summer School "НА СВЯЗИ" 2024  
+- 💻 Yadro Winter School "АЛГОРИТМЫ" 2025  
+- 📶 Yadro Summer School "НА СВЯЗИ" 2025
+- 🌐 **Huawei** — *HCIA-Datacom*  
+- 🎓 **Eltex** — *Fundamentals of Network Technologies* (Part 1)  
+- 🎓 **Eltex** — *Fundamentals of Network Technologies* (Part 2)
+- 🐍 **Stepik** — *Python с Сергеем Балакиревым*
+- 🖧 **Cisco** — *CCNA Packet Tracer Labs (Unofficial)*  
 
-- ✅ **Eltex** — *Fundamentals of Network Technologies* (Part 1)  
-- ✅ **Eltex** — *Fundamentals of Network Technologies* (Part 2)  
-- ✅ **Huawei** — *HCIA-Datacom*  
-- ✅ **Cisco** — *CCNA Packet Tracer Labs (Unofficial)*  
-- ✅ **Stepik** — *Python с Сергеем Балакиревым*  
+
+
 
 
 ## 📚 My Articles & Gists
