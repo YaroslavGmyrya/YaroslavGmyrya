@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yaroslav Gmyrya</h1>
+<h1 align="center">👋 Hi, I'm Yaroslav Gmyrya</h1>
 
-<h3 align="center">🎓 Student of the Siberian State University of Informatics and Telecommunications</h3>
+<h3 align="center">🎓 Student at the Siberian State University of Informatics and Telecommunications</h3>
+
 
 ## 🧰 Languages and Tools
 
@@ -17,16 +18,23 @@
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
 </p>
 
-## 📊 Top Langs
 
-<div align="center"">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=dark" alt="Top Langs" width="400" />
-</div>
+## 📊 Top Languages
 
-## 🏆 My Achievements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" width="400" />
+</p>
 
-- ✅ Eltex "Fundamentals of Network Technologies" (Part 1)  
-- ✅ Eltex "Fundamentals of Network Technologies" (Part 2)  
-- ✅ Huawei "HCIA-Datacom"  
-- ✅ CCNA Packet Tracer Labs (Unofficial)  
-- ✅ Python  
+
+## 🏅 Achievements & Certifications
+
+- ✅ **Eltex** — *Fundamentals of Network Technologies* (Part 1)  
+- ✅ **Eltex** — *Fundamentals of Network Technologies* (Part 2)  
+- ✅ **Huawei** — *HCIA-Datacom*  
+- ✅ **Cisco** — *CCNA Packet Tracer Labs (Unofficial)*  
+- ✅ **Stepik** — *Python с Сергеем Балакиревым*  
+
+
+## 📚 My Articles & Gists
+
+- ✍️ [Gists by YaroslavGmyrya](https://gist.github.com/YaroslavGmyrya)
