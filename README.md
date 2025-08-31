@@ -30,6 +30,7 @@
 - 📡 Yadro Summer School "НА СВЯЗИ" 2024  
 - 💻 Yadro Winter School "АЛГОРИТМЫ" 2025  
 - 📶 Yadro Summer School "НА СВЯЗИ" 2025
+- 📡 Yadro Summer School "ФИЗИКА И МАТЕМАТИКА" 2025  
 - 🌐 **Huawei** — *HCIA-Datacom*  
 - 🎓 **Eltex** — *Fundamentals of Network Technologies* (Part 1)  
 - 🎓 **Eltex** — *Fundamentals of Network Technologies* (Part 2)
