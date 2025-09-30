@@ -22,7 +22,7 @@
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=tokyonight&layout=compact&hide_border=true&hide=TeX" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavGmyrya&langs_count=8&theme=tokyonight&layout=compact&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="400" />
 </p>
 
 
